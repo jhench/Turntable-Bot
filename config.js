@@ -37,7 +37,7 @@ exports.tcpHost = '127.0.0.1';
 
 //Last.fm API key for use with last.fm API calls
 //Obtain an API key at http://www.last.fm/api/ or disable under Flags
-exports.lastfmkey = '5e2f52aa1d223e85e56f4e1ad297a729';
+exports.lastfmkey = '#####';
 
 //Flags
 exports.logConsoleEvents = false;	//Log room data in console
